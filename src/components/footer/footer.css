@@ -1,0 +1,47 @@
+footer{
+    background-color: rgb(123, 218, 255);
+    padding: 1rem 0;
+    text-align: center;
+    font-size: 0.9rem;
+    margin-top: 5rem;
+}
+footer a{
+    color: var(--color-white);
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-bottom: 1rem;
+    display: inline-block;    
+}
+.permalinks{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    margin: 0 auto 1rem;
+}
+.permalinks li a{
+    font-size: 1.2rem;
+}
+.footer__copyright{
+    margin-bottom: 5.5rem;
+    color: var(--color-bg);
+}
+
+/* ==========================Media Queries (medium devices)================*/
+@media screen and (max-width:1024px) 
+{
+    .permalinks li a{
+        font-size: 1.4rem;
+    }
+}
+
+/* ==========================Media Queries (small devices)================*/
+@media screen and (max-width:600px) 
+{
+    .permalinks{
+        gap: 0.8rem;
+    }
+    .permalinks li a{
+        font-size: 1rem;
+    }
+}
