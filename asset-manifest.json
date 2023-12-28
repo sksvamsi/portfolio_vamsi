@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio_vamsi/static/css/main.84b08e27.css",
+    "main.js": "/portfolio_vamsi/static/js/main.9f86a2ed.js",
+    "static/media/about-me.png": "/portfolio_vamsi/static/media/about-me.f977d09ddb795be32fe0.png",
+    "static/media/myimage.png": "/portfolio_vamsi/static/media/myimage.68f8a0bf8146fed02f0c.png",
+    "static/media/portfolio2.png": "/portfolio_vamsi/static/media/portfolio2.c99ee12f2a814d2d7646.png",
+    "static/media/portfolio1.png": "/portfolio_vamsi/static/media/portfolio1.1d5588fb6595a3ff2a23.png",
+    "static/media/portfolio4.png": "/portfolio_vamsi/static/media/portfolio4.96537761af2283dadb55.png",
+    "static/media/cv.pdf": "/portfolio_vamsi/static/media/cv.1adef211007fe3171670.pdf",
+    "static/media/portfolio3.png": "/portfolio_vamsi/static/media/portfolio3.eaa57c758f613e6f6495.png",
+    "index.html": "/portfolio_vamsi/index.html",
+    "main.84b08e27.css.map": "/portfolio_vamsi/static/css/main.84b08e27.css.map",
+    "main.9f86a2ed.js.map": "/portfolio_vamsi/static/js/main.9f86a2ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84b08e27.css",
+    "static/js/main.9f86a2ed.js"
+  ]
+}
